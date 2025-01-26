@@ -1,0 +1,1 @@
+A compact but fully functional operating system kernel, designed to support multithreaded programming and time-sharing. It includes synchronization primitives like semaphores and events. Written in C++ for the x86 processor architecture on a 32-bit host operating system
